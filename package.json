@@ -1,6 +1,6 @@
 {
   "name": "js-cnpj-validation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lib for CNPJ validation",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -11,6 +11,14 @@
   "keywords": ["cnpj", "validate", "validation", "validar", "validação"],
   "author": "Julio Silva",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosilvacwb/js-cnpj-validation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliosilvacwb/js-cnpj-validation/issues"
+  },
+  "homepage": "https://github.com/juliosilvacwb/js-cnpj-validation#readme",
   "devDependencies": {
     "@types/jest": "^28.1.4",
     "jest": "^28.1.2",
